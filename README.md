@@ -6,32 +6,7 @@
 const ln2r = {
   origin: "Southeast Asia",
   lang: ["English", "Bahasa"],
-  experience: ["JavaScript", "MongoDB", "Node.Js", "HTML", "CSS", "PHP"],
-  projects: [
-    {
-      name: "jinsoyun",
-      desc: "Blade & Soul NA Discord Bot",
-      url: "https://github.com/ln2r/jinsoyun",
-      status: "ongoing"
-     },
-     {
-      name: "jinsoyun-backend",
-      desc: "Jinsoyun's Bot database backend using MERN stack.",
-      url: "https://github.com/ln2r/jinsoyun-backend",
-      status: "finished"
-     },
-     {
-      name: "bunyang",
-      desc: "Winston like console reporting system.",
-      url: null,
-      status: "wip"
-     },
-     {
-      name: "bunah",
-      desc: "Yet another Twitter API endpoint.",
-      url: null,
-      status: "wip"
-  ]
+  experience: ["JavaScript", "MongoDB", "Node.Js", "HTML", "CSS", "PHP"]
 }
 ```
 
