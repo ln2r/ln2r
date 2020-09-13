@@ -11,4 +11,4 @@ const ln2r = {
 ```
 
 ### Stats and Stuff
-![GitHub](https://github-readme-stats.vercel.app/api/?username=ln2r&hide=prs,contribs&hide_border=true&theme=cobalt) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ln2r&layout=compact&hide_border=true&theme=cobalt)
+![GitHub](https://github-readme-stats.vercel.app/api/?username=ln2r&hide=prs&hide_border=true&theme=cobalt) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ln2r&layout=compact&hide_border=true&theme=cobalt)
