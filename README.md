@@ -6,7 +6,7 @@
 const ln2r = {
   origin: "Southeast Asia",
   lang: ["English", "Bahasa"],
-  experience: ["JavaScript", "MongoDB", "Node.Js", "HTML", "CSS", "PHP"]
+  experience: ["JavaScript", "MongoDB", "Node.Js"]
 }
 ```
 
