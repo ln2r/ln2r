@@ -1,12 +1,12 @@
 <h2>Hello there, ln2r here!</h2>
-<i>"Yet another novice software engineer who's trying to make a mark in the world."</i>
+<i>"Just another software engineer who's trying to make a mark in the world."</i>
 
 ### `about.json`
 ```javascript
 const ln2r = {
   origin: "Southeast Asia",
   lang: ["English", "Bahasa"],
-  experience: ["JavaScript", "MongoDB", "Node.Js"]
+  experience: ["JavaScript", "MongoDB", "Node.Js", "Express", "Next.JS"]
 }
 ```
 
