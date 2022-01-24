@@ -17,5 +17,5 @@ export const ln2r = {
 }
 ```
 
-### github.me.js
+### `github.me.js`
 ![GitHub](https://github-readme-stats.vercel.app/api/?username=ln2r&hide=prs&hide_border=true&theme=cobalt) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ln2r&layout=compact&hide_border=true&theme=cobalt)
